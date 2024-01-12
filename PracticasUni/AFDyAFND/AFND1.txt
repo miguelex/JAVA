@@ -1,0 +1,15 @@
+/*
+Cadenas formadas solo por 'a' o solo por 'b'
+*/
+Transiciones
+1 a 2
+2 a 2
+3 b 4
+4 b 4
+Transiciones lambda
+0 3
+0 1
+Finales
+2
+4
+EOF

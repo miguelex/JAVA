@@ -1,0 +1,10 @@
+
+Este automata reconoce cadenas binarias que acaben en 1
+Transiciones
+0 0 0
+0 1 1
+1 1 1
+1 0 0
+Estados finales
+1
+FIN

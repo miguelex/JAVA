@@ -1,0 +1,27 @@
+/*
+Cadenas que comienzen en l o s y luego tenga combinaciones de l,d o s
+*/
+Transiciones
+1 l 3
+2 s 4
+7 l 10
+8 d 11
+9 s 12
+Transiciones lambda
+0 1
+0 2
+3 5
+4 5
+5 6
+5 14
+6 7
+6 8
+6 9
+10 13
+11 13
+12 13
+13 14
+13 6
+Finales
+14
+EOF
